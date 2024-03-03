@@ -1,0 +1,26 @@
+{
+"name": "springbapaanimation",
+"version": "1.0.0",
+"description": "This is a simple demonstration of a spring animation created using JavaScript and CSS.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/bapakabid/SpringAnimation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "bapakabid",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
